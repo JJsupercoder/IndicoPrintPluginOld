@@ -29,7 +29,6 @@ While the virtual environment is activated, you can use pip to install the neces
 
 
 pip install indico
-pip install xhtml2pdf
 
 
 4. Install the Plugin:
